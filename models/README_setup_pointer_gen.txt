@@ -19,3 +19,8 @@ python run_summarization.py --mode=train --data_path=/home/morris_burkhardt/w266
 
 7) For evaluation, navigate into "~/w266-final-project/models/pointer-generator/pointer-generator-master" and execute the following, after replacing 'morris_burkhardt' with your own user name:
 python run_summarization.py --mode=eval --data_path=/home/morris_burkhardt/w266-final-project/models/pointer-generator/cnn-dailymail-master/finished_files/chunked/val_* --vocab_path=/home/morris_burkhardt/w266-final-project/models/pointer-generator/cnn-dailymail-master/finished_files/vocab --log_root=/home/morris_burkhardt/w266-final-project/models/pointer-generator/log --exp_name=myexperiment
+
+8) For beam search decoding, navigate into "~/w266-final-project/models/pointer-generator/pointer-generator-master" and execute the following, after replacing 'morris_burkhardt' with your own user name:
+python run_summarization.py --mode=decode --data_path=/home/morris_burkhardt/w266-final-project/models/pointer-generator/cnn-dailymail-master/finished_files/chunked/val_* --vocab_path=/home/morris_burkhardt/w266-final-project/models/pointer-generator/cnn-dailymail-master/finished_files/vocab --log_root=/home/morris_burkhardt/w266-final-project/models/pointer-generator/log --exp_name=myexperiment
+
+
