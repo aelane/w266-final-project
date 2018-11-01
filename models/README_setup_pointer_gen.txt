@@ -6,7 +6,7 @@
 pip install pyrouge
 
 3) Install java: 
-apt install default-jre
+sudo apt install default-jre
 
 4) Add the following line to the end of the .profile file (~/.profile): 
 export CLASSPATH=~/w266-final-project/models/pointer-generator/stanford-corenlp-full-2018-10-05/stanford-corenlp-3.9.2.jar
