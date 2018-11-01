@@ -8,13 +8,14 @@ mkdir pointer-generator
 cd pointer-generator
 
 # Download and unpack pointer-generator model for python 3:
-rm -r master.zip
+# No longer necessary, because refactored version is in repository
+#rm -r master.zip
 
-wget  https://github.com/becxer/pointer-generator/archive/master.zip
+#wget  https://github.com/becxer/pointer-generator/archive/master.zip
 
-unzip master.zip
+#unzip master.zip
 
-rm -r master.zip
+#rm -r master.zip
 
 # Download and unpack cnn-dailymail-master
 rm -r master.zip
