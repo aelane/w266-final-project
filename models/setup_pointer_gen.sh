@@ -71,7 +71,7 @@ cd ..
 
 # Create log files:
 
-mkdir pointer-generator-log
+mkdir log
 
 
 cd $mydir
