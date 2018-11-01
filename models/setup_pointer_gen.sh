@@ -65,17 +65,16 @@ rm -r stanford-corenlp-full-2018-10-05.zip
 
 cd cnn-dailymail-master
 
-python make_datafiles.py /home/morris_burkhardt/w266-final-project/models/pointer-generator/stories/cnn/stories /home/morris_burkhardt/w266-final-project/models/pointer-generator/stories/dailymail/stories
+python make_datafiles.py ~/w266-final-project/models/pointer-generator/stories/cnn/stories ~/w266-final-project/models/pointer-generator/stories/dailymail/stories
 
 cd ..
 
+# Create log files:
+
+mkdir pointer-generator-log
+
+
 cd $mydir
-
-# All files can be found here:
-
-#~/w266-final-project/models/pointer-generator/cnn-dailymail-master
-
-
 
 
 
@@ -85,3 +84,7 @@ cd $mydir
 #    apt install default-jre
 # 2) Add the following line to the end of the .profile file in the home directory (~):
 #    export CLASSPATH=~/w266-final-project/models/pointer-generator/stanford-corenlp-full-2018-10-05/stanford-corenlp-3.9.2.jar
+# 3) Install pyrouge:
+#    pip install pyrouge
+
+
