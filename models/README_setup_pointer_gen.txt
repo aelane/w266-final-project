@@ -1,4 +1,6 @@
-1) Increase memory (and CPU/GPU speed) on Google Cloud Instance. 3.75 GB memory is not enough. OS will kill tensorflow due to memory overflow.
+0) Increase memory (and CPU/GPU speed) on Google Cloud Instance. 3.75 GB memory is not enough for training/eval. OS will kill tensorflow due to memory overflow.
+
+1) Make sure the repository (w266-final-project) is checked out into the home directory (~/).
 
 2) Install pyrouge: 
 pip install pyrouge
