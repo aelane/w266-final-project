@@ -8,7 +8,7 @@ pip install pyrouge
 3) Install java: 
 sudo apt install default-jre
 
-4) Add the following line to the end of the .profile file (~/.profile): 
+4) Add the following line to the end of the .profile file (~/.profile) and run 'source .profile' after or restart system:
 export CLASSPATH=~/w266-final-project/models/pointer-generator/stanford-corenlp-full-2018-10-05/stanford-corenlp-3.9.2.jar
 
 5) Run setup_pointer_gen.sh:
