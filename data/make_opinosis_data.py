@@ -53,7 +53,7 @@ def chunk_all():
   if not os.path.isdir(chunks_dir):
     os.mkdir(chunks_dir)
   # Chunk the data
-  for set_name in ['train', 'val', 'test']:
+  for set_name in ['test']:
     print("Splitting %s data into chunks..." % set_name)
     chunk_file(set_name)
   print("Saved chunked data in %s" % chunks_dir)
@@ -84,22 +84,10 @@ def tokenize_stories(stories_dir, tokenized_stories_dir):
 
 def read_text_file(text_file):
   lines = []
-  with open(text_file, "r") as f:
+  with open(text_file, "r", encoding='cp1252') as f:
     for line in f:
       lines.append(line.strip())
   return lines
-
-
-def hashhex(s):
-  """Returns a heximal formated SHA1 hash of the input string."""
-  h = hashlib.sha1()
-  h.update(s.encode())
-  return h.hexdigest()
-
-
-def get_url_hashes(url_list):
-  return [hashhex(url) for url in url_list]
-
 
 def fix_missing_period(line):
   """Adds a period to a line that is missing a period"""
@@ -142,36 +130,18 @@ def get_art_abs(story_file):
   return article, abstract
 
 
-def write_to_bin(url_file, out_file, makevocab=False):
+def write_to_bin(out_file, makevocab=False):
   """Reads the tokenized .story files corresponding to the urls listed in the url_file and writes them to a out_file."""
-  print("Making bin file for URLs listed in %s..." % url_file)
-  url_list = read_text_file(url_file)
-  url_hashes = get_url_hashes(url_list)
-  story_fnames = [s+".story" for s in url_hashes]
-  num_stories = len(story_fnames)
-
   if makevocab:
     vocab_counter = collections.Counter()
 
   with open(out_file, 'wb') as writer:
-    for idx,s in enumerate(story_fnames):
-      if idx % 1000 == 0:
-        print("Writing story %i of %i; %.2f percent done" % (idx, num_stories, float(idx)*100.0/float(num_stories)))
-
-      # Look in the tokenized story dirs to find the .story file corresponding to this url
-      if os.path.isfile(os.path.join(cnn_tokenized_stories_dir, s)):
-        story_file = os.path.join(cnn_tokenized_stories_dir, s)
-      elif os.path.isfile(os.path.join(dm_tokenized_stories_dir, s)):
-        story_file = os.path.join(dm_tokenized_stories_dir, s)
-      else:
-        print("Error: Couldn't find tokenized story file %s in either tokenized story directories %s and %s. Was there an error during tokenization?" % (s, cnn_tokenized_stories_dir, dm_tokenized_stories_dir))
-        # Check again if tokenized stories directories contain correct number of files
-        print("Checking that the tokenized stories directories %s and %s contain correct number of files..." % (cnn_tokenized_stories_dir, dm_tokenized_stories_dir))
-
-        raise Exception("Tokenized stories directories %s and %s contain correct number of files but story file %s found in neither." % (cnn_tokenized_stories_dir, dm_tokenized_stories_dir, s))
-
+    for file in os.listdir(tokenized_dir):
+      file2 = 'combined/' + file
+      print('*******************************')
+      print(file)
       # Get the strings to write to .bin file
-      article, abstract = get_art_abs(story_file)
+      article, abstract = get_art_abs(file2)
 
       # Write to tf.Example
       tf_example = example_pb2.Example()
@@ -217,9 +187,7 @@ if __name__ == '__main__':
   tokenize_stories(data_dir, tokenized_dir)
 
   # Read the tokenized stories, do a little postprocessing then write to bin files
-  #write_to_bin(all_test_urls, os.path.join(finished_files_dir, "test.bin"))
-  #write_to_bin(all_val_urls, os.path.join(finished_files_dir, "val.bin"))
-  #write_to_bin(all_train_urls, os.path.join(finished_files_dir, "train.bin"), makevocab=True)
+  write_to_bin(os.path.join(finished_files_dir, "test.bin"))
 
   # Chunk the data. This splits each of train.bin, val.bin and test.bin into smaller chunks, each containing e.g. 1000 examples, and saves them in finished_files/chunks
-  #chunk_all()
+  chunk_all()
