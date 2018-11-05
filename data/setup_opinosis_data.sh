@@ -18,8 +18,6 @@ unzip OpinosisDataset1.0_0.zip
 
 rm OpinosisDataset1.0_0.zip
 
-cp ~/w266-final-project/data/make_opinosis_data.py ~/w266-final-project/data/raw/opinosis_data
-
 filetopics=topics/*.txt.data
 for f1 in $filetopics
 do
@@ -47,5 +45,13 @@ do
   done
 
 done
+
+
+cp ~/w266-final-project/data/make_opinosis_data.py ~/w266-final-project/data/raw/opinosis_data
+
+
+python make_opinosis_data.py ~/w266-final-project/data/raw/opinosis_data/combined
+
+
 
 cd $mydir
