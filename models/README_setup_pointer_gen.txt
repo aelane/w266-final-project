@@ -1,11 +1,23 @@
-0) Increase memory (and CPU/GPU speed) on Google Cloud Instance. 3.75 GB memory is not enough for training/eval. OS will kill tensorflow due to memory overflow.
+0) Increase memory (and CPU/GPU speed) on Google Cloud Instance: 8 CPU with 23 GB RAM seems to be good for training/eval. If system does not have enough memory, OS will kill tensorflow due to memory overflow.
 
 1) Make sure the repository (w266-final-project) is checked out into the home directory (~/).
 
 2) Install pyrouge: 
-   i) Clone Rouge perl script into home directory (~): git clone https://github.com/andersjo/pyrouge
-   ii) pip install pyrouge
-   iii) pyrouge_set_rouge_path ~/pyrouge/tools/ROUGE-1.5.5
+   a) Perl should already be installed (check by using apt list --installed)
+   b) Clone Rouge perl script into home directory (~): 
+      -> git clone https://github.com/andersjo/pyrouge
+   c) Install pyrouge:
+      -> Make sure you  are in the home directory (~), then execute the following commands:
+      -> mkdir pyrouge-setup
+      -> git clone https://github.com/bheinzerling/pyrouge pyrouge-setup
+      -> cd pyrouge-setup
+      -> python setup.py install
+   d) Install XML parser: 
+      -> sudo apt-get install libxml-parser-perl
+   e) Set home directory for rouge: 
+      -> pyrouge_set_rouge_path ~/pyrouge/tools/ROUGE-1.5.5
+   f) Test if pyrouge works: 
+      -> python -m pyrouge.test
 
 3) Install java: 
 sudo apt install default-jre
