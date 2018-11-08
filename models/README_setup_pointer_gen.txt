@@ -3,7 +3,9 @@
 1) Make sure the repository (w266-final-project) is checked out into the home directory (~/).
 
 2) Install pyrouge: 
-pip install pyrouge
+   i) Clone Rouge perl script into home directory (~): git clone https://github.com/andersjo/pyrouge
+   ii) pip install pyrouge
+   iii) pyrouge_set_rouge_path ~/pyrouge/tools/ROUGE-1.5.5
 
 3) Install java: 
 sudo apt install default-jre
