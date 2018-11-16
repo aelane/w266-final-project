@@ -1,0 +1,13 @@
+Some Canon and Fujitsu scanners give you multiple buttons on the scanner itself for different scanning profiles (e.g., color 2-sided, grey 1-sided, etc), so that you don't have to change settings in the software all the time.- The default ControlCenter 4 software does an awful job of handling jams and multi-feeds. We have 4 of Fujitsu Scansnap 1500 scanners in our office, one on each terminal. I use PaperPort 14 to drive the scanners and organize the output files. Both scanners have TWAIN and WIA drivers, so they can be used by practically every scanner enabled software package.Both scanners have wedged-shaped bodies. The scanners approached parity at 150dpi, while the difference in scanning speed was dramatic at 600dpi.B&W; document- fifty pages - 300dpi....Epson GT-50 - 4:07.1 sec....Brother ADS-2000 - 1:56.4 secMulti-page form - 8 pages double sided, flip vertical - 300dpi....Epson - 45.8 seconds....Brother 20.3 secondsMulti-page form - 8 pages double sided, flip vertical - 150dpi....Epson - 22.0....Brother - 21.8Multi-page form - 8 pages double sided, flip vertical - 600dpi....Brother - 42.2....Epson - 1:47.8 secMulti-page form - 8 pages double sided, flip vertical - 1200dpi....Brother - 40.6 sec....Epson - Not Available(Note: the optical resolution of the Brother is 600dpi. Both scanners maintained a nice even spacing of the horizontal lines. It works, but it's obviously dated software.Both scanners can scan both sides of a page in one pass and can be set to skip the blank pages in the output file. Brother makes the best scanners.
+
+@highlight
+
+When I use document scanners I want one function: press the button and have it dump a PDF into my predetermined destination.
+
+@highlight
+
+This is true of most scanners, so I expected this.Speed:During my tests, I was quite surprised at how fast it seemed.
+
+@highlight
+
+Both scanners are connected directly to separate USB ports without going through an external hub.

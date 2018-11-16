@@ -1,0 +1,13 @@
+Fujitsu comes with the Adobe professional PDF software with the Abbey fine reader OCR.The Brother is not bad at all though. It is feasible if you already had the Adobe that you could use that software with the Brother and get along just like with a Fujitsu. Epson is also a little hampered by the software it comes with.The Brother is superior to the Fujitsu 1300 series. I found the included software to be very easy to use, and I expect retrieval of documents to be very simple.I highly recommend this scanner. I don't like the software (Mac) as well as the Scansnap Manager - but it may be a matter of familiarity. But Xerox has not updated the software to work with Windows XP updates and it does not work well with Windows 7.Fow Windows 7,Fujitsu ScanSnap S1500 Instant PDF Sheet-Fed Scanner for PChas been our workhorse. The software is middle-of-the-road in terms of ease; it's not complex, but I wouldn't call it easy to use. The ScanSnap software is a little more difficult to use.Overall, the Brother ADS-2000 is a good scanner.
+
+@highlight
+
+Typically with software this is just a way programmers use to hide extra buttons that might confuse some users.
+
+@highlight
+
+1200dpi is via software interpolation)I ran two tests to check color scanning ability.
+
+@highlight
+
+The Epson, using the Abbyy software, did a much better job.The Brother has the following output file formats: Scan to Word 2K (or W97) RTF, searchable PDF, Excel (2003 or 97) XLS, TXT, HTML 3.2 or 4.0, and WordPerfect 8, 9 or 10.

@@ -1,0 +1,13 @@
+The print quality is great. The full print client that comes with the printer on the CD takes rather long to install on each PC - but there is really no need for the full client.The ability to print photos is good, not great. If the print comes directly from software, then the side winder paper output in the front works great, I don't even have to roll open the shelf. If speed is your print goal, then the 4020 would be the choice, but for a Swiss army knife type of machine this works fine. I even bumped up the print dpi to maximum to see if that affected the print speed or image quality. The print quality is excellent. Uses 4 print cartridges and their replacements can be a bit pricey but really not any more expensive than other printers. The scan matched the original print very nicely.~ There are several scan interfaces based on what type of user you are, if you are scanning through a software program like Photoshop. You will be able to see, when viewing the print from an angle, the color blocks from the ink. I leave it turned off, but then when you do use it, it will clean the print heads automatically.~ I have used it very sparingly for the past four months or so, and the black ink has only 1/4 of it left. The print quality is really great. Both the print color, including pictures, and scan quality is clear, and true. The first print went quickly and the quality was great.I do a lot of printing and soon had to put in a new ink cartridge.
+
+@highlight
+
+Because I can't complete a basic print job, we have not attempted to scan or use the other features on this printer.
+
+@highlight
+
+The local print spooler service is not running.
+
+@highlight
+
+The print speed was impressive for basic black and white text as was color printing from Aperture.

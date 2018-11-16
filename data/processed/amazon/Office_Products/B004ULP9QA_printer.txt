@@ -1,0 +1,13 @@
+This printer is awesome! I got this printer over a year ago, it seen very bad days, but it still works like a charm, very happy with it! This printer makes live a lot easier. I love this printer, especially for the price. This printer fits the bill perfectly.Printing/scan and copy speed is fast. The printer is also not terribly heavy, and have a comfortable handle for you to carry it around if necessary. I had that printer for nearly seven years, and it was still working great, but I decided it was time to upgrade to something that also had a scanner/copier, since I'm trying to go to a paperless office. And, the printer cartridges, which are typically the highest cost of owning a laser printer, were much more reasonably priced than the printer cartridges required by all of the other printer brands. The printer takes little to no time to warm up, and spits out copies very quickly, and at good quality. I recommend this printer to anyone who needs a printer for home use, school, or even a small business. This printer is a great quick copier too.
+
+@highlight
+
+The printer has been functioning very nicely, but the experience I went through with customer service is downright unbelievable, especially considering it concerned an *OEM* cartridge that the printer refused to recognize.Here's what you have to do to reset the page counter, or the toner sensor, or whatever makes it detect the toner:open coverpress clear["replace drum?"
+
+@highlight
+
+This printer packs a lot of features for the price, including:* Ethernet connectivity, so you can directly connect it to a network (USB, of course, is still an option) and also manage it via the Web interface* Flatbed scanner and automatic document feeder (color scanning is also possible)* Double-sided (duplex) printing* Reasonably priced consumables, i.e., drum and toner (especially the high-yield one).
+
+@highlight
+
+You can configure SMTP, but only for e-mailing printer errors to an administrator, which might be useful in some business settings.

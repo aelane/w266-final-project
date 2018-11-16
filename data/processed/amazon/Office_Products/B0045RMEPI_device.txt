@@ -1,0 +1,13 @@
+This device can no longer be used with Goggle Voice after May 15, 2014.The following announcement (in part) was posted by OBihai Technology, Inc. on:  Thursday, October 31, 2013.Important Message About Google Voice and Your OBi Device.Google Sets the Date for the End of XMPP with Google Voice.Recently Google announced the end of support for XMPP based calling with Google Voice. Since your OBi device uses XMPP to communicate with Google servers, the end of support will directly impact how your OBi device can be used with your Gmail account and its associated Google Voice phone number. After that, the device works flawlessly. Calls with this device and Google Voice are crystal clear - sound even better than my Vonage phone, which I can't wait to dump as soon as I can port that number over to Google Voice - Google, please hurry up and allow landline porting!!! I was not :)The "add device" function on their website would not work. It then did the "add device" ok.  Obi was online!Had problems connection to Google Voice. You get a unique device password/key on Google. #4 Obi to Obi device calling for free long distance anywhere there is an internet connection.
+
+@highlight
+
+Anyhow, this is a great little device if you need an easy home solution for your Google Voice number.
+
+@highlight
+
+I bought this device about two years ago and it worked pretty well for me with Google Voice until recently.
+
+@highlight
+
+]The device still has its uses after Google Voice expires, but be an informed buyer and know that's not part of the feature set anymore.

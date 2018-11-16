@@ -1,0 +1,13 @@
+The printer ships with a 1000-page starter printer cartridge. The printer's paper level indicator was not an obvious feature, for example. I was finally able to get the printer installed and working both with Windows and with my Mac (thanks to those who answered my questions and offered suggestions here! )Now that it is working, I do have to say that it is a decent bare-bones printer but it is quirky.The good:-- It prints clearly and quickly and it handles my 65-pound paper fine so far.-- Compact footprint so it makes a good addition to my cubicle where counter space is very limitedThe not-so-good:-- The installation -- trying to find the drivers, trying to get my computer to actually see the printer (when hooked up directly via USB),-- SHORT power cord (better find an extension cord or place it RIGHT next to your power strip)-- DRAWS a lot of power when it is firing up and printing -- the lights actually flicker and it tripped the circuit breaker on my industrial-strength surge protector/UPS. Overall it's a very fast, quiet printer. For what I do, I generally don't need a fancy printer, and you can always pick up a bargain printer for less than the cost of ink (or toner) for an existing printer. This printer has just achieved "boat anchor" status.Other annoyances:The Samsung printer software (installed from the boxed CD) hijacked my Print Screen key for some "easy capture manager" nonsense. Take the printer out of the box. Connect the printer to your system. But this is an $80 printer, so I'm not going to complain. If you're looking for a basic black-and-white printer that's not going to break the budget and has a reputable name behind it, this is an excellent choice. Now if only it was a wireless printer... (no printer cable provided). But I digress.Back to this printer review.Setup is easy. The printer comes with a setup CD, which is great, buy my laptop has no CD drive. This printer prints *very* quickly. I am upset that the printer cartridge costs almost as much as the new printer, but at least with Samsung, the ink lasts for a while.UPDATE: MARCH 11, 2014:  All of a sudden, my printer stopped working. While doing it, the printer simply stopped turning on. All in all, this printer lasted a year and a half.
+
+@highlight
+
+Usually when you open a printer's packaging you find a quick setup guide.
+
+@highlight
+
+I then put the printer in place and connected the printer to my router with a NOT SUPPLIED Ethernet cable.
+
+@highlight
+
+I found that odd even though it found the printer on my network.

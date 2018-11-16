@@ -1,0 +1,13 @@
+Previously used scanning software in a Canon all-in-one device and it only scanning 4 pages a minute! Also, the S1500 I bought, came BUNDLED with the Organizer software, and Acrobat 9. Install the software first, then power off computer, then attach the scanner, then power back on, wait for Windows to recognize it. The software defaults are duplex and double-feed detection, which frankly are two things you won't generally want. No software issues, which is a great plus.Would recommend. They're easy to use, have great software, impressive speed, and great image quality.The movable guides make scanning receipts or large documents easy. The software turns documents easily into PDF files, which is all we needed. That is, if you want the software to detect and recognize text and create a .pdf that can be found by searching for text in the contents of the file (not the file name), it takes longer. You have to use the software that comes with it to do the scanning. It's very fast, and I like that the software lets me name the file after it has been scanned, something the S510 software did not (on the Mac at least). Xerox has a very buggy OneTouch software.
+
+@highlight
+
+It's also great that I can use their software standalone and don't have to deal with Acrobat at all, which is incredibly bloated in version 7.It comes with some other software, such as an OCR reader which I haven't tried, and a program called CardMinder which you can use to scan in business cards.
+
+@highlight
+
+The S1500 is slightly faster at scanning, and the software seems to be a little faster at processing the documents.
+
+@highlight
+
+The Acrobat software is terrible, but it is a little better than the Acrobat Standard 8 that comes bundled with the S500.Overall, I do think they improved a bit on the S500, but not enough where anyone needs to replace their S500 with the S1500.

@@ -1,0 +1,13 @@
+If the paper output tray is closed when you send a print job to the printer, it will automatically tilt the LCD screen upward (if needed) and slide the paper output tray out. The paper trays slide in and out nicely (not the case with my EPSON Workforce 635, I have to struggle with those trays every time.) There are two paper trays, one for regular paper (8.5x11 for me), and one for photo paper (4x6 glossy for me). The photo paper cartridge takes up to 5x7 paper but cannot hold 8x10 paper. It is not tall, but it is wide and deep to support the larger paper sizes. The paper trays (standard paper, photo paper and CD/DVD) are recessed and the automated output tray has a bi-directional faciltiy also absent on my other Expressions models. There is also a separate paper slot for quick 4x6 photo printing. If there is no photo paper in the tray it doesn't print. You can't tell it to default to the main paper tray. I like to get a plain paper print first to see if it is worthy of photo paper.&#10008; The Control Panel, output tray, and main paper tray cover DO NOT automatically close during auto power down. The main paper tray is small and the rear paper feeder is totally bizarre, but those are about the only real negatives that I could find.
+
+@highlight
+
+3) The rear paper feeder can only hold ONE SHEET OF PAPER.
+
+@highlight
+
+4) And you can't pre-load any paper into the rear paper feeder!!!
+
+@highlight
+
+If you load the paper before you send the document, the printer will SPIT IT OUT and then ask you to reload it.

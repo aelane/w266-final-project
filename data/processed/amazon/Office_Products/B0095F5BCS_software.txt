@@ -1,0 +1,13 @@
+As with the software and firmware for their cameras, Canon frequently releases updates that may include bug fixes or extra features. The included software guides you through either the USB or network connection menus. Included software is basic but useful. Setup software is very basic. Printing from either Lightroom 4 or Canon Print Studio Pro (software included with the printer). It is basically the same as the software that comes with the Pro-1 and the Pro9000 and the one for the mac is harder to navigate through than the pc version when it comes to the printing from Photoshop dialogues. I used the supplied software, it installed easily without any issues on a Dell XPS (Vista) & ASUS Laptop (Win 7)3) It works with no issues with Adobe Photoshop Elements, Corel Painter Pro 12. The software install took a little bit longer than I expected, but wasn't difficult, just follow the on-screen instructions. Once the software is installed, you run a test to make sure the print head is aligned properly (I assumed it was -- looked good to me! I develop software for my day job and I still have a hard time figuring out what Canon's engineers have put together, lol! As for getting it ready to use with my MacBook Pro, I just downloaded the software myself, directly from the Canon site. (I never use those software discs, preferring to make sure I have the latest version.) When the software and drivers are installed, you are instructed to disconnect the USB cable.As stated by others, the footprint on this is large, 25% bigger than the Epson 1650.
+
+@highlight
+
+If you are printing from either Adobe's or Canon's software, this plug-in lets you adjust printer settings, manage color settings (e.g.
+
+@highlight
+
+Whenever I install new software, I immediately check for new software, firmware, or driver updates or patches before I begin to use the software.
+
+@highlight
+
+Some software updates are major and can overwrite or reset any changes that you have configured in the software, so it is best to download and apply all new updates before proceeding to use the software.

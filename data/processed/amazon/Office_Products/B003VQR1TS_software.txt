@@ -1,0 +1,13 @@
+Install the software and connect via the supplied USB cable. The software is much improved over the older software that my old Canon scanner came with. If you need a better OCR and have Microsoft Office you can download free OCR software from Microsoft. USB powered and the software that comes with it is great for quick scans. The software for the scanner must be installed on the computer first - and that loads VERY SLOWLY! This is a poorly designed software issue and should be resolved by Canon in a future driver release (or at least I hope so).On the positive side, the footprint of the software (how much of your system resources it uses) is minimal. I do wish that the software was better, but it is more than adequate for most people. I am not thrilled with provided software, but it works. It is fairly easy to set up, I use Windows 7 OS and needed to install the software which I found pretty easy to do.For the price I really think this is a good choice for you if you are looking for something that is compact and energy efficient for home use. However, the software is so-so for both models. The software that comes with the 210 model offers no improvement over the older version, at least from what I can see.
+
+@highlight
+
+The software is multi-layered, confusing, and difficult to configure to your best use.
+
+@highlight
+
+However, the software provided with the scanner leaves a lot to be desired.If you are not very familiar with scanners, you will likely find that the Canon software is easy to use and adequate for your purposes.
+
+@highlight
+
+That is because Canon has streamlined the software for newbies and made accessing the more advanced features a real pain in the rear.

@@ -1,0 +1,13 @@
+The printer was well-packaged and took about three minutes to unpack and plug in (power and USB). I'm not sure why, but this printer won't work even though I've done everything I can to get it to work. The printer is definitely more compact than what you see in the picture and I will try to get an actual pic up here for you so that you can see for yourself! My first printer was a Dot-Matrix; black dots on the page that formed letters and numbers. This by far is the fastest wireless printer we have.I don't have a phone line, so faxing is out of the question. But after the printer went into "sleep" mode, it would not wake up on its own and the wireless connection was lost. The printer immediately obtained an IP address, and after two months, I have not experienced any issues with a drop or lack of connectivity, even after rebooting both the router and the printer. You need to connect the printer via USB, or you need to adjust settings using the device's front-panel menus.From a design perspective, the printer does not have a particularly solid build -- very lightweight plastic, especially on doors and panels. This is, at best, a lightweight/light-job printer. Otherwise, it is a reliable networked printer that has not given me any trouble in over two months. I tried to connect to the printer using Windows 7, Windows Vista and Windows XP. I hooked up the printer via Ethernet and all worked fine. It appears that the printer is having cascading failures and I am waiting for the final shoe to drop.
+
+@highlight
+
+Besides the printer itself, is came with the following:- CD software- A quick installation guide- A full network installation guide- French display panel sticker- An AC power cord- A USB cord- A phone cord (for fax)- A warranty bookletDid a brief overview of the basic setup, plugged in the power and the included USB cord (wireless would come later).
+
+@highlight
+
+After unboxing the printer, removing the numerous tape strips hold the moving parts down, reading the quick install directions, and shaking the toner cartridge (as instructed), I powered up the unit and pressed the glowing "WPS" button and then acknowledged the connection in my wireless router by entering the printer code shown on the LCD screen.
+
+@highlight
+
+The printer was then connected to our network in a matter of minutes.

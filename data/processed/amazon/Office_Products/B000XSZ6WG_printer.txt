@@ -1,0 +1,13 @@
+You must make sure that the printer is turned on and it has an IP address(**) while this is happening. I received this printer earlier today. I connected the printer to my wireless router with an ethernet cable but you can also use a USB connection.Then you use the installation cd and run the install program. I selected "Add printer" and the software loaded the drivers. That was all it took to add the printer. Now when printing I just select this printer and it prints. This printer comes with 128 MB of RAM in it. Open the printer info, select "info" and then driver. At first I tried to search for the printer before I installed the drivers and it was not going too well, then after I did the driver install it actually runs through a search for IP printers and it found it, assigned an IP address, and set it to my default printer all in just a few seconds, so installation would have been much quicker if I would have known that. I hooked the printer up with the RJ-45 cable going to my wireless router and all my computers can print from it just fine after installing the print drivers and finding the printer on each.As for the quality, the unit itself appears very well built and sturdy using high quality plastics and engineering. We have had this printer for two years now and it has performed like a champ. The Mac was able to discover the printer without any help. Hooking this printer up to your wireless router is quite easy.The driver setup program needs the printer to be online in order to be completed. You have to complete the printer setup beforehand to ensure that it has an IP and is accessible over the network. What I find quite objectionable is that the printer spits out these two pages EACH TIME your printer is cycled off and on. The Oki printer cost about $230 more than the XEROX so it's not exactly a fair comparison. This is a very nice printer for a small office or home. On this printer you first connect the power, and if you're not connecting it to a network then you plug in the USB cable, but don't install the software yet. This is out first laser printer and so far we are very impressed with it (after figuring out the installation).
+
+@highlight
+
+I am awarding this printer 5 stars for its ease of installation, quality of output, quality of workmanship, unit price and the average cost of a printed page.The Xerox Phaser 6310N appears to be a solid, quality unit.
+
+@highlight
+
+My printer is now taking jobs from 5 different computers, connected through the same router over Wi-Fi and running Windows XP and Vista.The unit comes in a nice, neat box where very little space is wasted.
+
+@highlight
+
+Since the printer was not physically connected to the laptop, it immediately started to look for IP-based printers.

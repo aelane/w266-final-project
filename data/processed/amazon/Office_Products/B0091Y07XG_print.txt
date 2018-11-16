@@ -1,0 +1,13 @@
+I was not expecting laser print quality, but this was below what I get on my HP. Why does this happen?A:To keep the print head clear and ready to print, the printer uses a small amount of ink from all the cartridges whenever it prints. The print head needs to be kept charged to prevent air bubbles from entering. I haven't compared the print speed or quality of the two yet, but when I do I will add to this review.So my initial impression is that the larger Artisan 837 is in some ways a superior machine. The print quality was excellent and the print ratio was fast. The print quality for photos was also excellent! The print quality is good enough for most needs (don't expect laser quality out of this guy), and the scans are decent quality. The print speed was acceptable but if I was printing out a 20 page document, I might get antsy in waiting.The ADF was able to scan multiple pages into a PDF without any issue. The print quality and the speed are good. The print quality is quite good on normal, but the draft quality leaves much to be desired. Not only does it offer higher print (e.g., 11 vs. 9 pages per minute 1-sided color) and copy (e.g., 11 vs. 10 pages per minute 1-sided black) speeds, and maximum scan resolution (e.g, 2400 vs 4800 dpi), but it also provides a capability to send and receive faxes, and a 30-page automatic document feeder that makes 2-sided printing * and * copying jobs more performant in the XP 800 than the XP 600.Since I have experience setting up both the XP 600 and 800, I can mention that setting up the XP 800 required a little bit more time and effort from me than setting up the XP 600.
+
+@highlight
+
+Before mounting the Install CD the basic print, copy and fax basic settings should be input through the printer control touch pad before attempting to set up a connection to the PC or network.
+
+@highlight
+
+Direct print on CD/DVDs is supported with the XP-800 but I did not try it.For photo reproduction, in my opinion the Expressions printer is the clear favorite.
+
+@highlight
+
+With the Epson I can not only print from all of my apps, I can also scan, copy, and access documents stored in the Cloud right from my iPad or iPhone.

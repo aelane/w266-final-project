@@ -1,0 +1,13 @@
+The software installed easily and with no problems. The software that comes with the scanner is very user friendly and I was able to pull the scanner from the box, load the software and go to work. The software provides an excellent human interface so it is natural to use. My old Lide's software was pretty lame. This software is not great, but it does let you set up some defaults so that you can just scan without having to touch the computer, just a one button push on the scanner and the software places the scanned photos into a folder I specified.It was also pretty trivial to set the copy function up. Restarting the software didn't fix the problem, but rebooting the computer did. It works fast and great with the included software and with Vuescan software. The included software is very functional and makes operating the scanner a breeze. The software is simple to learn to use, but kind of clunky, and not very convenient.The preview images for 35mm negatives are smaller than the negative image, which often is too tiny to see minor significant details. Unfortunately the software that Canon uses with their scanners and printers isn't the most convenient.I am running Windows 7, and Photo Studio 5.5 has some known compatibility issues with Windows 7. It is not perfect but the software management is complete, if not a little awkward.
+
+@highlight
+
+I installed all of it cause I am not sure which software is needed and which isn't, with the intention of removing the stuff I don't need later.
+
+@highlight
+
+The software that comes with it are mostly useless though.
+
+@highlight
+
+The software that auto crops the images can sometimes get it wrong and crop off too much.

@@ -1,0 +1,13 @@
+The setup can be a bit challenging for Windows 7 owners.Setup:The printer comes with a handy quick start guide and a CD. Since the setup indicates that one is to put photo paper in that tray, I should think it would have defaulted to the larger tray unless asked. With this setup I am going to be scanning all the old account records and finally achieve a paperless office. You might have a seamless setup and want to go ten stars or you might fail to get it to work consistently and go one star! Wifi setup was simple thru the menu (so easy, I didn't bother using the setup cd for wifi setup), driver install on each pc was quick and painless and I had it up and running in no time at all. This is comparable to the Lexmark and setup on the Canon, well, they both leave setting that printer in the dust in terms of ease of use and configuration.Installing the printer software was just as easy as previous steps. It's tedious and annoying, but after the initial setup, hopefully you never need to set it up again. While I will say that the setup was pretty frustrating for me as well, the solutions weren't that difficult so that had I called tech support sooner I probably would have had it up and running without all the sweat and stress.Here were the two big factors that tripped me up:RUNNING ON WINDOWS 7: If you use Windows 7, the software that comes with the printer is out of date.
+
+@highlight
+
+Just running the setup disk everything installed perfectly.
+
+@highlight
+
+The setup program took us step-by-step through the process, told us when to connect the printer temporarily to the PC, and then found our home network for us.
+
+@highlight
+
+I believe you can set this up in the advanced setup to default to tray 2, but it's not intuitive.

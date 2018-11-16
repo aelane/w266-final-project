@@ -1,0 +1,13 @@
+directly to your computer. My computer battery died awhile ago, so I have to keep it plugged in at all times. I have a Vista computer, and subsequently, have fumbled my way through some printers that aren't quite compatible. You can print from your computer, tablet, or smart phone. If you are using it with more than one computer you will have to install the software on each of them. Scanning from your computer instead of the scanner, you have the option of where you want to save the scan.It does fine with copies. But I have learned this to be true with nearly all computer hardware and software devices. Now onto the other computer that this printer is shared with, it was running Win7 32bit. Remember, don't connect your computer until you finish set-up and don't let your children drink the ink.
+
+@highlight
+
+The Epson doesn't know what computer it's supposed to be scanning the document to.
+
+@highlight
+
+Instead, now what you do it go to the computer you want the document scanned to, open the Epson Scan program and launch it.
+
+@highlight
+
+But when trying to scan directly through the computer via the software it will constantly error out and just cause a multitude of issues, then later in the day it wants to work without issue but the next morning it is back to being buggy.

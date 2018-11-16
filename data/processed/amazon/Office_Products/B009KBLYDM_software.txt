@@ -1,0 +1,13 @@
+The included software is not the greatest, requiring some trial and error, but the hardware is excellent. It's possible that could be fixed by messing around with software settings.Personally, I never use the maximum dpi settings - so anything above 300-400 dpi is just wasted on me unless I'm scanning an extremely small picture. Unlike my earlier Epson software, it also runs very smoothly and quickly without hangs or crashes. Unfortunately it has no software or drivers that will allow it to be used with Tiger OS. You can run this without the software but you can't get the full potential out of the scanner unless you use the included disk software.It can scan at 48 bit color but the quick scan mode or default is less.Scan time is around 6 seconds per photo for the quick mode and it can figure out if it's scanning a document, black and white vs. color photo.The scan time for a 48 bit 600dpi image can be around 3 minutes long but the picture quality is very high and the results look great at this resolution.You can also scan PDF format which is very handy.Although it can only take one scan at a time, the software can bundle the images into one long document file instead of some scanner which make one file per page.Overall, it's a very nice scanner for photos and artwork. The software probably needs to be worked with more to make a better assessment but I'm pretty sure it is basic considering the reasonable cost of the overall package.I think if I was doing it over again that I would opt for the V370 with the built in transparency unit for slides and negatives. The software user interface can use some improvements, but not frustrating. I like the software that comes with the device and the options it provides. The Windows software claims to work with XP through Windows 7.
+
+@highlight
+
+The software allows you to have the amount of control over the scanning process that you are comfortable with.
+
+@highlight
+
+It comes with software to "stitch" together documents that won't fit on the scanner bed, so you can scan multiple overlapping sections and put them together seamlessly.But where this scanner excels is with photos.
+
+@highlight
+
+I haven't tried the Mac software yet.

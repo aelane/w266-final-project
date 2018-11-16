@@ -1,0 +1,13 @@
+We have cleaned the print heads. We have aligned the print heads. Once done, the print was perfect to my eye and looked quite uniform under a magnifying glass.I printed photos from an SD card and also directly from my two different cameras (using PictBridge). I had just started a time-sensitive print job (I don't print much) when suddenly the levels of ink remaining flashed on the computer screen - like a warning. Be sure that the print output tray is opened before starting a print job, as, unlike the XP-810, the tray will not open automatically by itself. I tried cancelling a print and the printer just sat there forever "cancelling" until I shut off the printer. The print is crisp and clear and it's big but it isn't huge. I scaled back my print ambitions and got an XP-600 and once again, after a year and no more than 500 pages it jammed, stripped its gears, and was dead. Following a quick print of the test page I used the front of the printer to set up the wireless part which was easy enough despite this printer not really having a true touch screen like the artisans have.I used the same disc on my laptop to install the drivers there and it asked if the wireless printer I intended to connect to was already set up. Setting up scan and remote print was less stellar. The email/remote print tested out ok.The instructions are rudimentary at best.
+
+@highlight
+
+The HP print was far less brilliant and contrasty.
+
+@highlight
+
+The Epson print was much bolder and had better contrast, with darker darks and lighter lights.
+
+@highlight
+
+Neither print looked a lot like what was on the screen, of course, which is to be expected.

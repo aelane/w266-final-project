@@ -1,0 +1,13 @@
+These are very different from the old 900 MHz and 2.4/5.8 GHz cordless handsets of yore, which seemed monstrous, heavy, and cumbersome with long whip antennae. When playing with the handsets, I noticed an odd icon appear to the left of the battery state of charge indicator. My Uniden handsets used AA-sized cells and when I retrofitted them with NiMH cells, I chose batteries that had a capacity of 2000+ mAh roughly 4 times the capacity of these GE/Sanyo packs and could be left uncharged for over 3 weeks. The featherweight GE handsets are a big plus because it reduces fatigue for long conversations.-The base station and satellite station have a bright blue LED in the bottom that serves as a charge indicator. The handsets are extremely lightweight. Two handsets are included with the base and labeled Handset 1 and handset 2, although as they are interchangeable I'm not sure why this matters. The handsets are light weight, and the belt clip is very tight and secure. We're going to keep these handsets in service here in our house because we like Google411 that much, but this will not be a product I enthusiastically recommend to friends.
+
+@highlight
+
+This means that when you expand up to 6 handsets, only the base station has to be wired to a RJ-11 modular port for VoIP or a standard telephone line.
+
+@highlight
+
+The other 5 handsets can communicate with one another on a wireless digital network.Pros:-The GE 28821FE2 is one of the first cordless phones that I have seen come equipped from the factory with Nickel Metal Hydride (NiMH) battery packs.
+
+@highlight
+
+I retrofitted some Uniden handsets with NiMH battery cells that I soldered together, but I was shocked to see these new GE DECT 6.0 handsets come with Sanyo NiMH packs from the get-go!

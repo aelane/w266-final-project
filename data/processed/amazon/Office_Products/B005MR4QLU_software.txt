@@ -1,0 +1,13 @@
+It is not necessary to download and install the Dymo software or connect the device to a computer in order for it to operate. The software does everything it claims once you figure it out, although even once it is up and running, it's still not something I would ever want someone playing with who isn't computer literate -- there will be a lot of questions on how to use the more advanced features. The DYMO software is very similar to what you find on the printer itself, except that it has considerably more features. The software is a free download from dymo dot com. The beautiful on-board software becomes a liability in boot time. The software seems to be missing a black-and-white preview mode. It would have been nice to have had the software included. If you use the software, you can design a label in any font you have, while there are limited choices if you use the label-maker by itself.The labels look good and adhere well.
+
+@highlight
+
+You then need to update this software as well as the software on the label printer.
+
+@highlight
+
+This is frustrating while you are using the software on your computer to compose the label and hit "print" only to find that the printer has turned itself off.6) The unit does not automatically recognize the size and type of tape cassette that has been inserted.
+
+@highlight
+
+It comes with its own Dymo Lite software but will also work with the full Dymo software version which Dymo offers for free on its web site.

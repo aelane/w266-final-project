@@ -1,0 +1,13 @@
+The scanner has a small footprint, easily scans small items, is fast, and provides a good color scan. So yes, this scanner works like it promises, but the story is far from over.The bad almost outweighs the good however... Since this is a straight through scanner, it means it will need periodic cleaning and calibration... this has always been a pain with this type of scanner and is only slightly better with this iteration, you still need to store the cleaning and calibration sheets somewhere you can find them later. The scanner only scans one page per file (you can merge them after the fact, but there is no add a page to this document feature). The scanner is single sided so two sided documents require twice as much scanning. After all of that, the scanner refused to work. I connected the scanner to the computer and waited for my computer to recognize it. This scanner is very different from the scanners I have used in the past. This scanner was moderately difficult to set up, but once done, it worked great with Windows XP. This would be the ideal scanner for any type of small business, especially one that is attempting to go "paperless", as the PDF file output capability can make a searchable file out of virtually all types of documents.
+
+@highlight
+
+The scanner I used in 1999 was better and easier to install than the Strobe XP 220.Installation Process from hellThe installation process was a nightmare.
+
+@highlight
+
+The scanner is connected through chunky Y cable; Y split from the power adapter for USB connection to the computer and connection to the scanner.
+
+@highlight
+
+The scanner took hours to install, 2 CDs, adding tons of bloated software to my computer and my waning patience finally snapping.

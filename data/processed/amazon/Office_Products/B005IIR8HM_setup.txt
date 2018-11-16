@@ -1,0 +1,13 @@
+As for this Epson, I found the setup quick and easy, although I do have some experience setting up hardware such as printers. The setup was very simple and straightforward. I'd say setup ended up being about an hour.Printing is such a dream. I found setup to be easy and fast.I never had to worry about printing any more. I followed the quick setup guide and used a USB cable initially as suggested by the quick setup guide. The setup was very quick and easy. The initial setup is a little time consuming, but it's not difficult. The guided setup process works great, first time, for initial install and for additional computer installs.I have a wireless home network already so adding the printer to it was a piece of cake.
+
+@highlight
+
+During setup, you're asked if you want to set up the printer wirelessly or via a "temporary USB connection", that is labeled as "recommended".
+
+@highlight
+
+During setup, you get a page printed telling you about the printer's capability to print stuff you email to a specific address.
+
+@highlight
+
+The setup disc added two printers to my "Devices" tab.

@@ -1,0 +1,13 @@
+There is a battery included with the labelmaker. I'm thinking that the rechargeable battery adds power without draining precious laptop battery power if you are unhooked and wandering but needing to print labels. Had I realized I had to put the battery in I'd have had it going in less than a minute. Here's how it breaks down:* Install battery and label tape cartridge - Easy* Instructions - Clear* Plug and Playo  Recognized by Windows XP immediately and installed all driverso  Recognized by Windows 7 immediately and installed all driverso  Software built into printero  Did not work on a USB powered hub* Desktop footprint - Printer is about the size of an external hard drive. It has a battery installed that charges while plugged in. I installed the battery (why)?, the cartridge and plugged it in and the device immediately shows up in Finder and you run the application. There is a internally removable rechargable battery, but I cannot understand why the USB power isn't enough. It comes with a rechargeable battery that you have to install inside the machine. But when I put the battery in (note - the battery has a + and - side but it fits either way so I am not sure if it makes a difference), it took me a while to figure out how to get the cover back on because at first it didn't fit. You have to push the battery down once you slide it in.Next you install the tape cartridge. It is easy to set up, includes rechargeable battery, starter printer ribbon, and usb cable, you simply connect and then open the folder that appears on your desktop.
+
+@highlight
+
+Simply insert the battery in the compartment, connect the device to a powered USB port on your Windows PC or Mac.
+
+@highlight
+
+It has a Li-Ion battery that trickle-charges so there is no need for a power adapter.
+
+@highlight
+
+Then you can put the battery in.

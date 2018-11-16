@@ -1,0 +1,13 @@
+Sleep time is the period of time without activities the printer will go to sleep after. You can control the sleep time such that it will not go to sleep too soon. But once it sleeps, then it takes a fixed wake-up time to uh... wake up. So even you set sleep time to a large value, it will go to sleep eventually after that amount of time without acitivities. Besides, it is not good to set a large sleep time value. Wake-up time is too long: I have stated above. But what really pissed me off was that each time a color ink cartridge was out, even the black and white printer and fax stopped working.Somethings never change: look at the user reviews of Brother printers and multifunction devices - they are all studded with complaints about customer service and ink  or toner cartridges!Does't look like it hurts Brother Corporation either. Over time it is expensive and environmentally inimical.
+
+@highlight
+
+I just haven't had time to fiddle with it yet.The unit is not perfect, but nearly so.
+
+@highlight
+
+But the wake-up time is way too long.
+
+@highlight
+
+Wake-up time and sleep time are two totally different things.

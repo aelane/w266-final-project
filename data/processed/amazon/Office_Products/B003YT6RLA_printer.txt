@@ -1,0 +1,13 @@
+I'm sure that when this printer stops working, we'll be looking at a more economical, smaller footprint one. Very nice printer with reasonably price supplies. Just be mindful when choosing your printer device.General Use - previous reviews highlighted various qualities accurately. quickly lets you know that the printer is not responding if an issue exists. Finally it did update and you can rename your printer with whatever email address you would like at the domain @hpeprint.com.This printer is larger than described in the Amazon listing because of the duplexer for two-sided copying and the paper tray. why?I would NEVER recommend this printer to anyone. Though this is by far the largest printer I've ever had, setup was easy (give yourself around 45 minutes for the whole process though). Once the printer is ready to go, plug it in and turn it on; this is where the time comes in. The initial printer power on takes around 20 minutes or s, where the printer aligns the print heads, etc. Once the printer is connected to the internet, it checks to see if an update is available (in my case, it was). After the printer was up and running on my network, both my Mac and Windows PCs had no trouble finding/adding it.I've had other HP printers, and this one is the best by far. The printer has nice styling and is pretty solidly constructed.I like the HP a bit more than the Lexmark, though neither one is what I'd call a heavy-use printer - they're probably more suitable for normal household use, than office use. The printer did take a fair amount of time to warm up/calibrate for these jobs (at one point, it took over 15 MINUTES to calibrate), but once it got going and printed, it took about 5 seconds or so per page.SCAN - scanner worked well - nice clear images, and you can direct where you want to output to (computer, SD card, etc).
+
+@highlight
+
+I then turned off my printer and turned it back on.
+
+@highlight
+
+The printer would forget that it was on the network and I would have to do the 'search for new printer' thing to get it recognized.
+
+@highlight
+
+The printer asked if I wanted to install the update, and when I OK'd it, it installed it and things have been smooth sailing ever since regarding commands from the PC and the touchpad.A reoccurring issue is that occasionally the mechanism that grabs the paper to print doesn't engage and when I attempt to assist it, a jam occurs.

@@ -1,0 +1,13 @@
+* The physical scan button on the front of the scanner could be more touch sensitive. Do I just push the button? Because I'm impatient, I started by just pushing the button to see what would happen. When I pressed the button on the scanner, it took about 3-4 seconds for the scanner to get the job settings from my PC before it started scanning. The front scan button doesn't work and although I downloaded some software from the web, there was no fix.The DS-510 is fast scanning but slower on the uptake and saving. Press the button to scan and nothing happens. If you had hit the button more than once in frustration, who will get a warning that no paper was loaded after the initial scan completes because it tries to scan more but the paper has already gone through. I thought setting up the quick scan button would be difficult, but it was very simple.
+
+@highlight
+
+The one-touch scan button worked as you would expect right from the start.
+
+@highlight
+
+When you push the blue button nothing happens at first, then the software up starts, and then it scans.
+
+@highlight
+
+There should really be a button on the scanner that controls this, or an auto-detection in the software.

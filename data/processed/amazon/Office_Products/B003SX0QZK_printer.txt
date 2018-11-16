@@ -1,0 +1,13 @@
+This printer does take more power than my old deskjet though so I did have to connect it to a different outlet than my computer (we have an older house). The printer says this because the paper simply isn't able to get all the way out.What I love most about this printer... I am so thankful to have this printer! Before owning this printer, we also used a scanner to make copies and the modem in my PC for faxes - which were kind of a pain, but still saved quite a bit of money over using an ink-jet all-in-one.We've had this Panasonic KX-MB2030 printer for about a month now and have been extremely impressed with it. I'll break this down by task/feature.SetupThe printer was real easy to set up. That being said, you still can use it as a printer, copier and fax machine if you don't plug it into anything except the phone line.One other thing to note, the printer cartridge included in the package comes in two parts. I deleted that and reinstalled the printer (just using the built-in/available driver that Windows offered which could still be the same drivers) and it worked great. As other have mentioned, this is a well built printer with good speed and nice print quality. * Vanilla USB -- works fine as long as you don't mind having the printer tethered to your primary computer and being able to print only through your primary computer when it's powered on.Now comes the pain ...* Vanilla LAN RJ45 (Ethernet CAT5) - the printer works fine as long as you don't mind having the printer tethered to your primary computer and being able to print only through your primary computer when it's powered on. Couldn't get the printer to register or print. Once installed, the printer performed just as expected, so now it's printing and scanning as well in a mixed Windows 7, XP and Mac environment.3/20/2012 - The toner cartridge is rated at 2,000 pages (ISO/IEC 19752 standard) and that seems about right so far, though even after 2,000 pages, don't be surprised to find it still printing cleanly.
+
+@highlight
+
+I've always had a printer, but the printers that I've had have always been inkjet printers.
+
+@highlight
+
+Once I saw what this printer could do, and calculated how much money it is going to save me in printing, the inkjet printer got moved and this printer now sits beautifully in my home office.
+
+@highlight
+
+I've only really got a printer so the idea of having a scanner, copier and fax machine I could use for basic tasks sounded good to me.

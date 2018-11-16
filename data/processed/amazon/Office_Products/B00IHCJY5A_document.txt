@@ -1,0 +1,13 @@
+I have another document scanner that ends up with a nicer quality, but the 560 can scan 10 pages as fast as its one.Bottom line: great scanner to convert large paper documents and files to digital files. The document feeder neatly flips open and closed like a Transformer toy. It would start scanning the document and then just stop - again saying there was a paper jam. I had the folded document setting selected on the front panel. The folded document was very flat. I think it should have scanned the document because it was feeding just fine. I had a text document that had about 8 and 7/16 of text width or 8.4375 inches, still less than 8.5 inches. I centered the document quite well. AFTER you have scanned a document in Document Capture Pro, it gives you the option for other destinations like Google Docs, Evernote, SugarSync, FTP server etc.So easy!Mac OS has almost exactly the same steps. The document shows up in the desired destination. Fujitsu scans your document. You see the actual document, cropped to it's actual dimensions, in a PDF.
+
+@highlight
+
+The automatic document feeder only holds a set (unspecified) number of pages, and the paper detection mechanism makes it hard to add pages in mid scan, but I was able to squeeze some in, anyway.
+
+@highlight
+
+Scanning a two-sided document created a huge PDF.
+
+@highlight
+
+I have a Brother ADS2000 document scanner.

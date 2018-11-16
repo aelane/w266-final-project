@@ -1,0 +1,13 @@
+It comes with several software tools for editing scanned images and the TWAIN driver plays nice with the New CS3 Adobe PhotoShop. It also has an acceptable (free) OCR software that can output to Word. The software is simple to use. It's the software. There's software that can do that too. I found their new software, filename 100_228_PS_AIO_02_Full_Net_enu.exe available at HP's website, to be a much more pleasant install and a bit better usability. Why doesn't the software automatically detect the duplex unit? Updated HP software for Windows 7 has mitigated the issues I had with the HP software.
+
+@highlight
+
+Be patient with software installation.
+
+@highlight
+
+The software warned about this.
+
+@highlight
+
+The software industry needs to sort this out.

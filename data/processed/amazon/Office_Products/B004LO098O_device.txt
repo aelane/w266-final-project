@@ -1,0 +1,13 @@
+We ended up buying an Ooma device instead - much simpler. !Just plug this device into your internet router, program your Google Voice into the ObiTalk web interface and plug in any standard telephone or cordless phone and WHAM!! The device is inexpensive, GoogleVoice is free for calls to USA and Canada for the remainder of the year, and Amazon shipped it to me super fast. You will have to register the device on the Internet and follow setup instructions from there. This device rocks. This device enabled me to move my &#34;landline&#34; off of Verizon cellular and onto VOIP. Loving my Obi device soooooooooo much !!! This device is GREAT!
+
+@highlight
+
+The device is small, about the size of a pack of cards, and easy to set up.
+
+@highlight
+
+This device can no longer be used with Goggle Voice after May 15, 2014.The following announcement (in part) was posted by OBihai Technology, Inc. on:  Thursday, October 31, 2014.Important Message About Google Voice and Your OBi Device.Google Sets the Date for the End of XMPP with Google Voice.Recently Google announced the end of support for XMPP based calling with Google Voice.
+
+@highlight
+
+Since your OBi device uses XMPP to communicate with Google servers, the end of support will directly impact how your OBi device can be used with your Gmail account and its associated Google Voice phone number.

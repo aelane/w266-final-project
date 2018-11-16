@@ -1,0 +1,13 @@
+I don't remember reading a business magazine and not seeing it there. I also tried scanning a business card in the Receipts slot. It handled business cards and crumpled receipts with aplomb. Removing the business card and receipt guides from the scanner allows you to quickly scan 50 pages at a time. That's a poor business decision to charge such a high price for someone who wants to be cross platform.My biggest complaint, besides the cross platform Mac tax, is the pricing. I don't particularly care about scanning business cards myself, but I think it's worth mentioning for those who are looking for a business card scanner.SOFTWAREWhen I received the NeatDesk, I had no idea how much the scanner relied on the software. I had three business cards from the same company formatted in the same way only differing in card owner names and telephone numbers handled in three different manners. I scanned several business cards, and while there were errors on each one that needed editing, it did accurately capture the phone numbers on all, and names on all but one which had the name as a company-like headline.
+
+@highlight
+
+I did not have any business cards to try, but the application will scan them and produce an update to several types of 'contact list' that you might use.
+
+@highlight
+
+My business partner swears by his SnapScan document scanner - he throws everything into the thing, and it scans, OCRs, and indexes the documents for later retrieval.This is the NeatDesk version of this kind of solution.Installation under Windows 7 x64 took me two hours, but it didn't have to.1.
+
+@highlight
+
+I tried scanning about 20 business cards and only four of them scanned acceptably.

@@ -1,0 +1,13 @@
+Run the machine from its own menu and buttons ON the machine. Run the machine from the Brother Control Center options on your computer. In my older MFC-9700, when you scan using the machine first -- meaning, you stick the thing to be scanned in the machine and hit the scan button ON the machine  -- the PaperPort menu automatically comes up on the computer. Run the machine's security and permissions, from the web. The machine is silent except when printing. It looks improved, versus my older machine. You can operate the machine remotely, too;  call into it and 'poll' (receive its stored input). Be sure to match the machine's settings to the size paper you use. You can have it forward, be paged, have it store in the machine  (so you can retrieve it remotely, which Brother calls 'polling'); or, have it store in your computer.--- Dial Restrictions is a kind of quick password protection, to prevent others or yourself from dialing wrongly.COPY:  You'd adjust these settings for higher than normal resolution. That's probably why when you turn off the machine, it forgets the time. Finally, if you set the machine to 'manual' fax receipt, then you must type a code, to activate the fax.
+
+@highlight
+
+This 8480DN cannot scan directly from the machine, but ONLY from the computer.
+
+@highlight
+
+The machine does have some advantages (see below), but I'm giving this low rating to call attention to the UTTER THOUGHTLESSNESS of the design and the manuals.Gist: If you seek a simple fax/scan/copy/printer, look somewhere else.
+
+@highlight
+
+This machine has fax/scan/copy/print features I can't find elsewhere except in machines costing 2k or more -- cleverly created and handled.

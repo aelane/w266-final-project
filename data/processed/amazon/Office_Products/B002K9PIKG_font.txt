@@ -1,0 +1,13 @@
+At 8pt font, four lines will just fit, 29 x's across, but it is getting too small to read.d. At 6pt font, five lines will fit, 39 x's across, but you will probably need a magnifying glass.e. At 4ft font, seven lines will fit, 59 x's across, but I'm afraid that no one could ever read it, BUT it would fit.3. You can obviously choose whatever font or font characteristics you'd like; the template depicts whether all the characters will successfully fall within each label's border. They are very small, requiring a tiny font to get a 3 line address on them. Because you can use any font on your computer, these give you a lot more possiblities than a 9 font labelmaker, and I think they are a tiny fraction of the cost of labelmaker tape.Anyway--if you have New Year's resolutions to get more organized--try these! I ended up having to fiddle around with the font and size before I got a usable label. These are really cool in that I can change the font, make holiday return labels or any kind of labels I'd like to make. If you set your font to 8 point or 9 point, you shouldn't have any trouble fitting a typical name and address on these labels. font barely fit on a label.
+
+@highlight
+
+I had to mickey around with the font.
+
+@highlight
+
+At Times New Roman 12pt font, two lines will fit with 19 small letter x's acrossb.
+
+@highlight
+
+At 10pt font, three lines will fit and it is comfortably readable with 23 x's acrossc.

@@ -1,0 +1,13 @@
+I wasn't able to download software and ended up having to use an external USB CD drive I borrowed from someone else. You need to use other Mac software such as Image Capture, which is included on OSX. Setting up theEpson WorkForce 845 Wireless Color Printer (C11CB92201)was not difficult once I'd downloaded the software onto my Mac running Snow Leopard. Also, comparing the software packages that are included from Canon to those that Epson includes is a bit of a laugh. The software wouldn't install properly and I had problems with certain scanning functions, until the day I uninstalled the printer to replace it with this Workforce 845. After that just install the software (on each PC that will be using the printer) and it will help you find and set up the printer for over the network for printing. You will need to set up the software on every PC that will be using the WiFi print, scanning, and/or network fax features. With the installed software, you can open the Fax Utility and easily set up a list of Speed Dial numbers, or Groups. Pretty sure you can also do this via the software disk, but thinking you would have to be connected via a usb cable so it could communicate in order to do this. I did have to download some software to get it setup, but wasn't very hard to do. The included software components are easy to install and they automatically check Epson servers for the latest versions. HP software tools tend to be intrusive and non-intuitive, in my opinion, and even though I never had any major problems with the printer itself, the eas-of-use of Epson's software makes their offerings more attractive to me... just a little insight for those who may be concerned about accessibility. Next, install the software on your computer.
+
+@highlight
+
+The software can be set to three different modes: Home; Office and Professional.
+
+@highlight
+
+I've had a few software issues in the past with the scanning so I don't use the Epson software anymore.
+
+@highlight
+
+I figured that I must simply be missing the needed software, so I downloaded the full software package from Epson and installed everything as well as updated the printer firmware to the latest version.Still no choice for printing to the Mac from the Epson.

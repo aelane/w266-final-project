@@ -1,0 +1,13 @@
+So, the provided ink doesn't last very long. The gray ink cartridge really helps.4. Finally, ink costs. Simply stated, if you use Canon ink, be prepared to get a 2nd job or take out a mortgage on your house. When you print, you get an ink indicator showing the levels of all cartridges.The exterior is a super smooth finish and the mechanisms of trays and doors are easy to use and well engineered. Another think I like about the ink cartridges, as compared to others, is that if blue runs out, you only have to replace blue, whereas a lot of other cartridges make you replace the magneta, yellow and blue, whether or not the tank is empty or not. To replace ink in other printers I've had in the past, cost up to $72. I recommend ordering ink right away.The 6th ink cartridge (gray) seems to be a fairly new thing. I can only find this ink in 5-packs (not 6-packs - they are missing the gray), so the gray has to be purchased separately. Not quite, but it's close enough for me - and the ink is less expensive, too.I've printed documents with it. However, it is slow, and the ink is more expensive than toner for a laser printer.So it handles color (pictures) well, and it handles documents well. This is much less ink than with the big cleaning/purging routine that is much rarer if you set the printer not to auto shut-off.--------------------------------------------------------------------------------------------------INK USAGE CANON DATASHEET:------------------------------As it is pretty difficult to find, here below is Canon's published Page Yield per Document numbers (I rounded a little) for MG7120. The non-transparent ink cartridges.
+
+@highlight
+
+The ink in the 250/251 tanks are the same formula as in the earlier 225/226 ink tanks according to Canon support.- The touch screen content-sensitive interface of the MG7120 and MG6320 gets rave reviews, however, I find the old interface of the MG6220 just as easy, but the unanimity of positive reviews for it suggests it really is much better for many.- For copying/scanning the top comes easily off just like the MG6320 (unlike the previous generation MG6220).- The MG7120 (and MG6320 and MG5420 models) have 2x the number of black ink nozzles as their predecessors the MG6220/MG5320 models.
+
+@highlight
+
+Thus for 5 ink MG series solutions, MG5420 may still be the sweet spot.- The MG6420 you would think replaces the MG6320, however the MG6420 is missing the gray tank, has no Ethernet, 4x6 photo printing can be 110% slower, copying can be 30% slower, has lower max color resolution, has lower max scanning resolution, and can't print on CDs/DVDs.
+
+@highlight
+
+Actual ink usage is high enough that this bug is pretty unwelcome.

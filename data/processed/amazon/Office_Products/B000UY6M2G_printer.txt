@@ -1,0 +1,13 @@
+I'm using it as a general printer and for the occasional photos and probably lots of scanning....I just started using it but setup was a lot less daunting than I imagined... The printer's onboard network setup feature detected my network (and my neighbor's!) The printer comes with a small color screen and actually it is useful to do the various tasks such as faxing, scanning, and of course printing. Much has been said of this printer. The printer worked great upon turning it on. I mainly use this printer daily for home use and light work use (printing pdf's double-sided and powerpoint slides). I do not recommend this printer for office use. All in all, I am very happy with this printer and I highly recommend it....however, I would point out that if you have a lot of printing or are going to use this in a home office that prints even moderately, I would look for something with more paper capacity. I've had this printer about six weeks, and, until two days ago, it functioned perfectly. The printer made high quality photo prints, the duplex function saved paper by printing on both sides of the page, and the quality of text printing was very good.So, why am I less than thrilled? This printer is easy to clear on the infrequent occasions when it jams. This is an excellent 3 in 1 printer and I recommend it. The printer is slow and loud. The printer _helpfully_ notices that the shiny side of my "photo" paper is down. Sometimes I come to use the printer and will find a color cartridge has supposedly gone empty while sitting doing nothing. This printer is annoying and hideously expensive to run.On the plus side, once you do get the wretched thing to grace you with the boon of an actually printed page, the quality is gorgeous.
+
+@highlight
+
+My printer is networked wirelessly to the router.
+
+@highlight
+
+I also changed the printer's IP address to a static IP.
+
+@highlight
+
+My earlier printer was OS compatible but software for it was almost an afterthought for the MAC.

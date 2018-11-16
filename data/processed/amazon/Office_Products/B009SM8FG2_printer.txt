@@ -1,0 +1,13 @@
+And as usual, a printer USB cable is not included, either. It was very frustrating to put together the printer, because you have to remove both the toner cartridge and the &#34;program return imaging unit&#34;, which I think refers to the printer drum, and remove a few packaging materials.Speaking of the return imagine unit or drum, I'm a little worried. All saw and recognized the printer immediately and without error. I was very pleased as my previous Brother printer had a few snags here and there with two of the PCs for some reason.Print quality is fantastic. This enables the printer to produce some of the most accurate fine lines within drawings and diagrams I have ever seen. With this Lexmark printer, I find that even from the printer starting off in sleep mode it's only a few seconds to spit out the paper and the print speed per page is much faster than even our old office laser printer (and exponentially faster than my personal inkjet).Note that the printer doesn't come with any connection cables, so make sure you have whatever you need for your preferred hookup method. The printer itself is not wireless out of the box but if you can wire it into your wireless router (I know, right), that'll work.I had no trouble connecting to it via Windows 7. I'm very impressed with this printer!Setup: I've used laser printers at work but this was the first laser printer that I have personally set up so I was a bit unfamiliar with the toner cartridge and imaging unit. Then, I connected the printer to our home network which is connected to our two Windows 7 desktop computers.
+
+@highlight
+
+The printer also has a web interface which is pretty useful.
+
+@highlight
+
+The printer comes with a "Return Program" starter toner cartridge.
+
+@highlight
+
+This seems to mean it will alter the printer so it will not longer work with third party toner cartridges.

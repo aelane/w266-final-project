@@ -1,0 +1,13 @@
+Outgoing calls from our obivoice service are configured to send our Google Voice Home phone number for Caller ID.There is a lot included in the:"BYOD home phone service for $39.99/year for your OBI - obivoice".[... I setup Callcentric on SP2 and could only make outgoing calls. Now I have unlimited free calls to anywhere in the US and Canada. Google automatically filters all calls identified as spam directly to a spam voicemail folder, so they do not ring my phone. I receive all the calls I want, when I want, where I want, and NONE of the junk. Now, I can't get calls in.So I try to log into my Google Voice (Google is now = evil). ************** Update 2 *********Decided this is very unreliable for remote calls. I've placed & received calls. I make international calls often and also had a land-line, but I was able to port it to Google Voice after porting to T-Mobile Prepaid. #2 Google Voice for incoming and outgoing calls (technically if you don't want to use Google voice but want to have two different VOIP providers you can do that as well).
+
+@highlight
+
+When the OBi wasn't picking up the calls, the calls still went directly to Google Voice Voicemail, so it wasn't too big an issue for me, especially since I don't use the number much.
+
+@highlight
+
+Since I did not need Ooma Premier I decided to stop forwarding calls from my Google voice number to my home phone.
+
+@highlight
+
+I can now make calls with my Google voice number showing on the caller ID.

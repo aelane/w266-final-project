@@ -1,0 +1,13 @@
+I tried buying new Epson ink cartridges, doing maintenance of aligning and cleaning print heads, unplugging printer & replugging machine back in etc. Printer ink always seems to require a bit of cash outlay. I checked pricing on ink cartridges today and found them to be in line with my previous printer so thats kind of a bummer as my 5 year old HP C6180 Ink is way overpriced. How much can the extra actual ink cost to manufacture? I'm anxious (but not really) to see how long the ink lasts. Low ink cost, compact size, many features-- a very good option for those in need of a home printer. It's almost 2012, and the current ink system is really outdated.Even though "Extra High-capacity Cartridges" are sold, the small savings are measured in comparison to color laser printers, which are in different league than standard inkjets. The ink lasts a long time (but I'm not printing volumes every day).
+
+@highlight
+
+It also has the ink divided into the four CMYK colors, thus avoiding having to change a single color cartridge if only one color runs out.
+
+@highlight
+
+This includes unpacking, installing the ink cartridges, having it detect your network (if you use either the ethernet or wireless connection option instead of USB), installing the utility software, downloading a firmware update from Epson and setting up the fax.My unit shipped with a CD containing version 1.1 of the utilities package.
+
+@highlight
+
+Like the other Epsons, the ink cartridges are ridiculously expensive and there are chips on them so they can't be refilled.

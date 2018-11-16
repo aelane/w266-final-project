@@ -1,0 +1,13 @@
+Unfortunately, Microsoft Office 2007 does not have the template for 22808. It was actually easier to create my own template and copy elements from the Avery template onto my own.One other drawback to the templates if you are using the kraft color labels is that many of the templates have a colored background which don't print nicely on the kraft color template. This template came in word format only and didn't work well with my Mac, even though I have the latest MS office installed. We printed on these, used the online template - They turned out GREAT!They stuck onto styrofoam no problems. Eventually, I was able to download a template via Microsoft Word that worked relatively well.These labels are okay, but they are nothing special. When trying to set up the template, I saw that since the labels are so new, they are not in the label database that is part of Windows. Avery's template program also offers some wonderful graphics to help customize your label as well as the option to upload your own photos or graphics. The template can be down loaded from the avery website. I had to play around with the template to get it just right with my own logo and wording, but once I got it set up it was easy to use again. I needed to download the correct template from Avery's website but that took seconds and it was extremely easy to open it in Word and use it.
+
+@highlight
+
+The first template I downloaded and printed was way off from the label (yes, I checked my doc settings).
+
+@highlight
+
+I tinkered around with the template until I was able to get the text and design lined up and centered.
+
+@highlight
+
+Hoping it was just that particular template, I downloaded a few other templates from the Avery site but unfortunately, the results were the same: the template design was way off from the circle label when printed.

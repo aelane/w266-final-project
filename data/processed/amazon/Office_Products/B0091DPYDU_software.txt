@@ -1,0 +1,13 @@
+You install the software from the disk and type in your wifi password and router information (sometimes on the bottom of your router). The software crashed twice during the installation. The software provides very easy setup - with instructions that clear and understandable. As always, you may however download the latest software at Epson's website instead.This is a great product from Epson, which offers an all-in-one machine at an affordable price.UPDATE:  When it runs out of black ink, it will give you an option of mixing other colors to create a mock-black color! The software is a bit better. I don't remember authorizing this software, as I normally opt out of all "participation" programs for security reasons. I had to manually uninstall the numerous software programs using Windows removal utility, but even then some Epson software persisted.The ONLY piece of software that worked flawlessly was the link to buy more Epson ink and supplies from Epson.After some of the above problems were resolved, the printer would work via USB cable, but not wirelessly. Setup up was very easy on a Mac with no problems-even with the included Epson software. Once installed, it wasn't too obvious that a huge software package had taken over my computer (like HP tends to do). Canon is too slow and it has separate software modules for each function, which is miserable. The Epson scan software is quite good and easy to figure out, but be sure and look at all of the scanning options initially just to familiarize yourself with the many, many options you have for your scan.
+
+@highlight
+
+The software appears to have problems with Win 7.Epson has targeted people with no networking experience.
+
+@highlight
+
+So you're forced to use the boated software via the computer, which failed to add my wireless network after numerous tries.
+
+@highlight
+
+You must install this software on EVERY computer you have, otherwise the device doesn't work.It also installed "Customer Participation" software on my computer, which from what I can assume, communicates with some third party server.

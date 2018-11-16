@@ -1,0 +1,13 @@
+It was easy to set up, and the accompanying software is basically the same as it has been for years. The included software performed flawlessly, and the scanner creates amazing scans even when using the fully automatic settings. Epson has delivered software that makes the whole scanning experience easy while still delivering high quality results.The film scanner uses special trays (included) and a separate light source, and delivers 6400 dpi. The software is also smart enough to automatically split the slides or film images into their own files.2) The scanner is easy to use and has a high quality feel. I installed the supplied software (from the disk) on my MacBookPro running OS10.9.1 and it would not work --- got error message that said to reinstall --- I installed the Epson software 3 times and kept getting the error message. The Adobe Elements 10 software that was included is also problematic due mainly to Adobe's fear that someone is going to steal their software (reason I quit buying PhotoShop). To install the software, you must create an Adobe ID then install it --- after it is installed you must go through the Adobe ID thing again --- then an error message comes up saying photoshop services are unavailable and to try again later. The software downloaded from Epson is excellent and easy to set up/use. Included Digital Ice software did a remarkable job of cleaning up all the dust and scratches on on old slide.
+
+@highlight
+
+The software is the same as the V500.One of the large bottlenecks of the V500 is that it will only scan two 645 negatives at a time.
+
+@highlight
+
+The software installed without a hitch on my Windows XP machine.
+
+@highlight
+
+The software worked flawlessly with Vista and the installation directions were clear.

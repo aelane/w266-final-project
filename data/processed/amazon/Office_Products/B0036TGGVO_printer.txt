@@ -1,0 +1,13 @@
+I don't need a printer with multiple colors and this one is the one for me. I bought this printer so my wife could print wirelessly from her laptop. Just got this printer - we needed a simple printer - nothing fancy. After the printer is configured, users can easily install the printer on their desktops by pointing their web browser to the IP address for the printer, and using the install wizard there.The boss also has a MAC computer and an iPad and has been able to configure both to print to this printer using Airprint. Setup is quick and easy: simply plug the printer into one computer on the network using a USB port, the driver software is stored in the printer's on-board memory (no download or CD ROM should be necessary). This printer is intended for a light workload-- if you find yourself regularly printing 20+ page print jobs, you should consider stepping up to the next model. We decided to place the printer across the room on a bookshelf, works great. I bought this as our main black and white printer for home as a I am sick to death of the expense of the Lexmark inkjet color all-in-one that we currently use, mainly for text. Simply unpack the printer, plug into the AC supply and then use the USB cable supplied to connect to your PC for a one-time installation.
+
+@highlight
+
+Yes, this printer is compatible with Macs, but HP has made it harder to set up wirelessly  than a PC.
+
+@highlight
+
+After that, I was able to connect to the printer with no fancy hoops as explained previously for Leopard users.Edit: August 24, 2012.
+
+@highlight
+
+Recently, the printer was having problems pulling in thicker label paper into the feeder.

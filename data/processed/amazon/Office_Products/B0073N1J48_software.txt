@@ -1,0 +1,13 @@
+The software is not the normally anaemic printer bundle. "Trying to install the software was equally daunting: it kept erroring and telling me the driver was already in use (I assume that would have been the stock Windows 8 driver), but despite quitting all programs and repeatedly restarting, I was unable to get past that error message and thus could not install the included drivers.There is a Windows 8 app for it, but the only option (despite it being billed as a control app) was to click a button for support, which opened up a web browser. The additional software, that is optional to install, makes the printer really feel like a portable office. I loaded the software getting ready to run the printer wirelessly. The included software was nice and covers all the usual bases for an all in one printer. Installing the software on the CD will prompt you how to do this.The most time you will spend is with the installation of the printer software on each machine you wish to use with this printer. I even installed the software on anASUS Eee PC Netbookwhich didn't have a CD or DVD drive. I copied all of the software on to a USB flash drive, and easily installed from the flash drive to the netbook.I have a friend with a second generation iPad who came over to test the AirPrint functionality. While these software does what it is supposed to do but it also adds tremendous unwanted apps in startup not to mention bugging you every so often to buy ink buy this buy that or register this and send anonymous data etc; etc;Okay after having the Wireless setup process done and assigning a Fixed IP address for my newly acquired shiny Canon printer I thought it would be time to get rid of the bloat ware and just use the drivers to use the printer for use but there also It failed as I could not get the Scanner functions to work correctly.
+
+@highlight
+
+I gave up and elected to do it after the software installation via the software interface like the quick start instructions suggested.
+
+@highlight
+
+The software interface is good and with a similar feel to previous Canon releases for their multi-function units.
+
+@highlight
+
+Another plus, the new software seems to work fine with my older MP 830, which will remain my main printer.Overall, I would pick the Epson Workforce 630 hands down over the Canon MX 432 for this price range.

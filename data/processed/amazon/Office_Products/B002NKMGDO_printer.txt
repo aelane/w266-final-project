@@ -1,0 +1,13 @@
+This printer has no such problem. I'm very pleased that this printer has four cartridges, one each for CMYK -- much less expensive than the multi-color HP ink cartridge. A nice-looking, well-built printer is easy to use, with a high-quality scan/copy function, but it stumbles on installation issues and falls down entirely on inkjet problems.The new just-unpackaged cartridges printed fine at first, but when I got back to the printer a few days later, the black was splotchy, and all my efforts wouldn't make this nearly-new cartridge print correctly again (cleaning, re-seating, test page after test page, recalibrating and realigning repeatedly, etc).Oddly enough, what must be a frequent issue was nowhere to be found on the Lexmark support site FAQ, and I had to email support to ask what to do. You can set the printer to default to print on one or two sides and overwrite it for individual documents.One of my favorite features of this printer is you can tell it to print only in black. I had to lug the printer up two flights of stairs to set up the wireless functionality to use on my desktop. I just wish the printer didn't need to plugged into the computer during the initial set up.That said, once the wireless function is set up, it works well. However, if you just need a printer, or intend to print on card stock, I'd suggest that you keep shopping. The Lexmark PRO205 is a sharp looking printer. Setting the printer up on my small office network was an easy quick process; even if entering information via the small keypad is somewhat tedious.
+
+@highlight
+
+I received this printer and my first thought was "Whew" wireless, this is going to be a pain...Well I'm happy to say I was wrong.First things first:PACKAGING:This printer was packed such that the instructions and installation CD, were right on top.
+
+@highlight
+
+You receive the printer, this folder of information with the CD, a power cord, a USB cord and a phone cord.THINGS TO SET UP THE FIRST TIME:When you get this printer, you will need to do the following:1.
+
+@highlight
+
+Since this printer does two-sided copies, it will send a page forward into the delivery chute, prior to pulling it back in, to print the other side.

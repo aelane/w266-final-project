@@ -1,0 +1,13 @@
+This printer is one that will last for a long time due to the fine construction. This printer, not unexpectedly, is fairly big taking deskspace of 23&#34; wide x 28.5&#34; deep x 7.5&#34; tall. I'm not interested in using this printer for anything else.I didn't want to connect wirelessly based on the way HP does it with this unit which requires information being sent back to HP which I don't like (see the HP website for more info.) Instead they opted for connecting the printer using the Ethernet. Setting this printer up for wireless use requires online registration with HP; once that is done, an internal chip allows HP to collect information from you. This printer has great potential in terms of image quality, but good source material is obviously mandatory for outstanding results.The 7110 uses HP 933 (932 for the Black) ink cartridges, which are less messy to install than previous cartridges, and there are four separate cartridges for Cyan, Magenta, Yellow and Black. Though larger than the average printer, the 7110 is not terribly heavy. It is, however, fairly compact for a large-format printer, and I had no trouble adapting it to my desk space. This printer is a great dollar value, as it can be had for about what I paid for my previous standard format unit. However, be aware that this is a BIG printer. You need to decide if you will use this printer with a hard connection via a USB printer cable (NOT supplied) or as a wireless printer that can be used by all the computers on your wireless network.You also have the option of setting up HP's eprint, which is a cloud based server that sends all of your print jobs to the cloud before printing them. If the printer is not on, your print job is saved in the cloud until it comes back on line. After the printer is installed on your wireless network, you will not have to use the USB cable even when installing the software on other computers in your network.I always choose to download printer software and drivers from the manufacturers website rather than use the supplied disk because they will be the latest drivers and I can check to see if there are any updates or patches or firmware updates. This is important for your printer to work properly with the latest versions of your operating system and document creation software so do it as part of your set up.There is only one paper tray included.
+
+@highlight
+
+When I first saw this printer, I was immediately impressed.
+
+@highlight
+
+However, I opted to connect the printer via USB cable that was already in place about 18 feet away.
+
+@highlight
+
+I highly recommend this printer.

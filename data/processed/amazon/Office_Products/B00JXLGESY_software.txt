@@ -1,0 +1,13 @@
+It sets up quickly (use the enclosed software, don't try to do it without it) and I was able to quickly put it on my WIFI network and print to it from computers all over the house. Since I'll be generally scanning from the Epson Scan software, though, I don't need to do any of those regularly. The software has an &#34;office mode&#34; or &#34;professional mode&#34;, basically the office mode uses the basic options and gives you some choices, the professional mode opens advanced settings, such as specifying that the source document type is reflective, or to use unsharp mask, and backlight correction and such. * No included OCR software. The software was disappointing, installing printer drivers should not be a hassle. The included Epson software driver installed no problem but automatically made the Epson the default printer. I had to download the software package from Epson. Once I downloaded the software and connected the printer via USB to my computer, the software walked me though the setup of my wifi network. The software also tried to install programs that were unrelated to the printer that tried to access the internet but my firewall blocked and reported this. No extra software or configuration at the device needed!Overall, the WF-4630 is an great multi-function all-in-one.
+
+@highlight
+
+But installing Wi-Fi required installing the software from the CD.
+
+@highlight
+
+For Macs, you have to install the software from the CD to connect it to the printer.This printer is targeted to small businesses with multiple computers connected to it.
+
+@highlight
+
+So hopefully the software on the CD is current.

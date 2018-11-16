@@ -1,0 +1,13 @@
+I have decided to go wireless with my printer and replaced an older HP with Epson Workforce 635. If Epson suggests that the wireless setup is easier with the USB cable, maybe they could include one. Assuming you have a wireless router, the printer can be set up wherever it's convenient for you. The one-touch WPS wireless network setup wouldn't work for me because I have a wireless repeater in my home, so it looks like I have two networks with the same name. The wireless connectionworked immediately. The wireless capability, (works also with Apple's AirPrint), works great! While trying to do a wireless scan for the first time I ran into a problem in which the device would not find my laptop and would require a USB cable to allow the scan, the manual had no suggestion whatsoever on what to do in this situation and I ended up troubleshooting with the help of some dedicated websites I was able to find on the web. The wireless printing is also a big plus, especially since so many homes now have multiple laptops, plus the odd habit of printers not coming with a USB cord (a tradition still maintained here) is no longer a pain point--one is recommended for setting up WiFi, but it wasn't that hard without one, as the tiltable LCD made things a breeze.Downsides?
+
+@highlight
+
+If you know your wireless network name and password, it's a very simple entry of both.
+
+@highlight
+
+As a wireless printer which might be used by multiple people, this is a problem for me.
+
+@highlight
+
+Oh, and it's wireless, which is a big bonus.

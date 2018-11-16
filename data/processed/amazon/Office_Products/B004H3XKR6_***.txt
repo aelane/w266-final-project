@@ -1,0 +1,13 @@
+*** This is the first printer I've ever had with individual ink cartridges for the Cyan, Magenta, and Yellow. *** It is not specifically designed for printing photos, but it does a very good job. *** Having stated that this is not a specifically photo printer, it does provide some options for adjusting photos (such as converting to sepia, auto corrections, scene-specific corrections, and gamma and color space choices). ***  Curiously, sRGB, the most common color space, is not an option. *** Since I was unable to find specific information about the optimum resolution at which to send photos to the printer, I assumed that the usual 360 dpi that most (or many) Epson printers prefer applied to this printer, too. *** It is possible to do considerable editing from within the software, and is excellent for all purposes from photos to documents. *** It has options such as saving a list of numbers you fax frequently; creating a sender identification header; setting number of rings for fax to pick up; faxing from either the scanner glass or the automatic document feeder; faxing in color; redialing busy numbers automatically, etc. *** Of all of the above, I find the faxing a document using the "print" dialog to be the smoothest workflow--works like a charm.AS A COPIER:*** It copies perfectly well. ***  For a machine that performs so many functions, it has a very small foot-print.
+
+@highlight
+
+INSTALLATION PROCESS:*** Smooth and intuitive.
+
+@highlight
+
+***  I have it connected via USB to the desktop which is located in a room where the wireless connection is so weak it required bringing in wires through the attic from the dsl modem to the computer.
+
+@highlight
+
+*** I can't say how much I appreciate having a larger black cartridge!

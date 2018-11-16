@@ -1,0 +1,13 @@
+It is worth noting that before I installed the Brother Control Center I did disable the anti-virus/firewall software on our machines (Kaspersky). I chose to install the full Brother Control Center 3 software package, WITHOUT Paperport (more on that below).Our employees immediately were ooh'ing and aah'ing about how fast this thing is. I downloaded and installed the latest Mac OS X 10.6 Snow Leopard software from Brother and it printed fantastically from both the Mac and the VMWare XP image. It's bonus software and pretty understandable (to me at least) that you don't get unlimited licenses for this program when you buy the $400 all-in-one. Even on Windows, better OCR software can scan the full page, including layout and images. It's unfortunate that the OCR software is so poor since there are OCR packages that do work well out there. The Brother Control Center software (For the Mac, it is version 2,  for windows it is up to version 3) allows you to initiate scanning and copying directly from your desktop and designate where you would like copy to file items stored on your computer. I went through the automatic software installation, but had a lot of problems getting it to run wirelessly on my office network until I realized the firewall was blocking it (even though I had already given it access). I would say that software installation requires a moderate level of computer knowledge and would not recommend the novice try to set up the wireless settings themselves. The software install is pretty straightforward.
+
+@highlight
+
+Installing the software onto another computer on the network caused the message to come back - this time saying that both Cyan and Yellow were empty.
+
+@highlight
+
+I printed the PDF for a software user manual that included various color screenshots.
+
+@highlight
+
+So, I think that there are some firmware and/or software issues yet to be resolved here by Brother.Manual fed items must be fed one at a time, unlike other Brother MFC machines that have a multifunction tray that accepts several sheets at once as an alternate feed tray.
