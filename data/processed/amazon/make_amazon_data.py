@@ -52,7 +52,7 @@ def chunk_all():
   if not os.path.isdir(chunks_dir):
     os.mkdir(chunks_dir)
   # Chunk the data
-  for set_name in ['test']:
+  for set_name in ['test', 'train', 'val']:
     print("Splitting %s data into chunks..." % set_name)
     chunk_file(set_name)
   print("Saved chunked data in %s" % chunks_dir)
@@ -198,13 +198,15 @@ if __name__ == '__main__':
   # Run stanford tokenizer on both stories dirs, outputting to tokenized stories directories
   tokenize_stories(data_dir, tokenized_dir2)
 
+  # Create a 80% (train) / 10% (test) / 10% (val) split:
   a = [s for s in os.listdir(data_dir) if s.endswith('.txt')]
-  train_data, test_data = train_test_split(a)
-
+  train_data, rest_data = train_test_split(a, test_size = 0.2)
+  test_data, val_data = train_test_split(rest_data, test_size = 0.5)
 
   # Read the tokenized stories, do a little postprocessing then write to bin files
   write_to_bin(train_data, os.path.join(finished_files_dir2, "train.bin"))
   write_to_bin(test_data, os.path.join(finished_files_dir2, "test.bin"))
+  write_to_bin(val_data, os.path.join(finished_files_dir2, "val.bin"))
 
   # Chunk the data. This splits each of train.bin, val.bin and test.bin into smaller chunks, each containing e.g. 1000 examples, and saves them in finished_files/chunks
   chunk_all()
