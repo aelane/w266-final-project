@@ -1,0 +1,1 @@
+the spokes should all have the same tension when plucked. i re-tensioned all 32 spokes, checked for alignment, made a few adjustments and ended up with a perfectly true wheel. adjusted the spokes to the averaged amount so now the spokes are at equal tension for each side of the wheels.
