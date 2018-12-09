@@ -1,5 +1,8 @@
 w266-final-project
 ==============================
+Concise Multi-Review Abstractive Summarization with Pointer-Generator Networks
+
+Morris Burkhardt, Andrew Kabatznick, Annie Lane
 
 Final Project for Fall 2018 MIDS W266 NLP with Deep Learning
 
